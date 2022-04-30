@@ -7,4 +7,4 @@ This is the place where I opensource stuff and break things 🤣
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/olcayvaroll.svg?style=social&label=Follow%20%40olcayvaroll)](https://twitter.com/olcayvaroll)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?olcayvaro1=olcayvaro1&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?=olcayvaro1&show_icons=true&theme=radical)
