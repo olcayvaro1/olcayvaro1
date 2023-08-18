@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm olcay</h1>
-<h3 align="center">A passionate jr.backend java developer from Turkey Computer Technology and information System education life at Mersin University. I am currently in the 4rd year of university, I haven’t graduated yet. I spend most of my time learning and researching new technologies.</h3>
+<h3 align="center">A passionate jr.backend java developer from Turkey. I graduated from Mersin University, Department of Computer Technology and Information Systems. I spend most of my time learning and researching new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
